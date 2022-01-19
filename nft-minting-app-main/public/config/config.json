@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x173fb04e061291403790877A686EA5B931A33D09",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x173fb04e061291403790877a686ea5b931a33d09",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "The Cryptic Society",
+  "SYMBOL": "TCS",
+  "MAX_SUPPLY": 250,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/the-cryptic-society",
+  "SHOW_BACKGROUND": true
+}
